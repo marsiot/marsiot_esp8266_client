@@ -31,7 +31,7 @@ const char *my_password = "";
  * 在开发平台首页显示你自己SITE TOKEN信息,例如
  * Site Token: 6c1a99b5-dd3b-4d55-bb88-xxxxxxxxxx
 */
-const char *marsiot_sitetoken = "6c1a99b5-dd3b-4d55-bb88-08dd0aedee2d";
+const char *marsiot_sitetoken = "6c1a99b5-dd3b-4d55-bb88-08dd0aedxxxx";
 
 /*
  * 模块名称和描述用户可以自定义
